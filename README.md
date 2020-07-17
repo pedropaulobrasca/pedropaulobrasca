@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/gabrielmellooliveira/gabrielmellooliveira/blob/master/gabrielmello-dev.png?raw=true" width="700"
-  alt="gabrielmello.dev" />
+  <img src="" width="700"
+  alt="pedropbt.com.br" />
 </p>
 <p align="center">
 Javascript | Typescript | ReactJS | React Native | NodeJS | C# | .NET Core
