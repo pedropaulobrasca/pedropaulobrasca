@@ -1,6 +1,10 @@
-<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Olá, sou Pedro 👋
+### Hi there, i'm Pedro 👋
+
+My name is Pedro Paulo, i'm from Brazil. 
+I am currently studying Analysis and Systems Development, focusing on fullsack development.
+The technologies I currently study are React and NodeJS.
 
 ### Social:
 
