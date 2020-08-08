@@ -2,9 +2,8 @@
 
 ### Hi there, i'm Pedro 👋
 
-My name is Pedro Paulo, i'm from Brazil. 
-I am currently studying Analysis and Systems Development, focusing on fullsack development.
-The technologies I currently study are React and NodeJS.
+Born and raised in São Caetano do Sul - SP, living in Taubaté - SP. Currently studying Systems Analysis and Development. I am focused on becoming a fullstack developer.
+Since I was a kid asking "how does it work?", It was then that I knew it was the programming I wanted for me. And here I am, in this wonderful world trying to make a difference! 💜
 
 ### Social:
 
