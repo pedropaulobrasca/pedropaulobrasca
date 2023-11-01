@@ -33,9 +33,6 @@
 </div>
 
 ###
-<img href="https://github.com/pedropaulobrasca/pedropaulobrasca/blob/output/snake.svg" alt="Snake animation" />
-
-###
 <div align="center">
   <img src="https://profile-counter.glitch.me/pedropaulobrasca/count.svg?"  />
 </div>
